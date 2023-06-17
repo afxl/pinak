@@ -1,0 +1,2 @@
+# pinak
+solution for pinak 
